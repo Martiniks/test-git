@@ -1,2 +1,2 @@
 # no .a files
-*.a
+*.a*
